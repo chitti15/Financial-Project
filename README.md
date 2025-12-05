@@ -71,7 +71,7 @@ and also supports predictive forecasting like revenue prediction.
 <h2 id="medallion-architecture">🏅 Medallion Architecture</h2>
 
 <h3>1️⃣ Bronze Layer — Raw Data</h3>
-<p>Stores the raw CSV as-is. No transformations applied.</p>
+<p>Stores the raw CSV as-it is. No transformations applied.</p>
 
 <h3>2️⃣ Silver Layer — Cleaned Data</h3>
 <p>
